@@ -1,0 +1,10 @@
+* cl-html5-parser
+
+HTML5 parser for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rotatef/cl-html5-parser.git   |
+| commit  | 74a92eb  |
+| systems | cl-html5-parser |
+|---------+-------------------------------------------|
+
